@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Abdi Tolesa<br>👀 I’m interested in AI and Web development<br>🌱 I’m currently learning AI <br> 💫 About Me: I'm currently working on Next. js , React <br>and spring boot for the backend
+👋 Hi, I’m Abdi Tolesa<br>👀 I’m interested in AI and Web development<br>🌱 I’m currently learning AI <br> 💫 About Me: I'm currently working on Next. js <br>and spring boot for the backend
 
 
 ## 🌐 Socials:
